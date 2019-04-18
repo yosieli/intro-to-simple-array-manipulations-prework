@@ -12,3 +12,5 @@ def using_pop(array)
 end
   using_shift()
   
+end
+  
